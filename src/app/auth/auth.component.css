@@ -1,0 +1,15 @@
+.buttons {
+    display: flex;
+    justify-content: space-between;
+}
+
+app-loading-spinner {
+    display: flex;
+    justify-content: space-around;
+}
+
+#danger {
+    color: #9021f8;
+    background-color: #c3ff37;
+    margin: 10px 0px;
+}
